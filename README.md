@@ -12,9 +12,15 @@
   * 테스트 실행을 위해 npm run start 실행
     > npm run start
   * http://localhost:1234 접속 테스트
-# 파일 구성
-* index.html : Main 화면
-* index.js : Main javascript (타 모듈, javascript, css, image 등을 불러와 실행)
-* xxx.css : Cascading Style Sheet
-* xxx.js : ES6 모듈, ES5 javascript
-* xxx.gif : image
+# 테스트한 내용
+* sidr 라이브러리를 참조하여 화면에 표시
+* jquery-ui(sortable) 라이브러리를 참조하여 sidr 메뉴 드래그하여 이동 구현
+* zTree 라이브러리를 참조하여 화면에 표시
+* 이미지를 javascript 상에서 동적으로 추가
+# Sample 코드 설명
+* node module로 설치(npm install ~)한 library 사용법 (my.menu.js)
+* ES6 모듈 작성법 (my.menu.js)
+* ES6 모듈 참조 및 사용법 (index.js)
+* ES5 javascript 작성법 (es5.js)
+* ES5 javascript 참조 및 사용법 (index.js)
+* 이미지 경로 import 후 사용법 (my.menu.js)
