@@ -4,12 +4,14 @@
 * node 설치
 # 설치
 * 방법 1 : git cloen https://github.com/hyungsbi/ol-test.git 실행
-> git cloen https://github.com/hyungsbi/ol-test.git
-* cloning된 곳으로 이동하여 npm install 실행
-> npm install
+  > git cloen https://github.com/hyungsbi/ol-test.git
 * 방법 2 : "Download ZIP" 실행, 다운받은 파일 압축 풀기
-* 압축풀린 곳으로 이동 후 npm install 실행
-> npm install
+* 공통
+  * 설치된 곳으로 이동 후 npm install 실행
+    > npm install
+  * 테스트 실행을 위해 npm run start 실행
+    > npm run start
+  * http://localhost:1234 접속 테스트
 # 파일 구성
 * index.html : Main 화면
 * index.js : Main javascript (타 모듈, javascript, css, image 등을 불러와 실행)
