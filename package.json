@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@ztree/ztree_v3": "^3.5.43",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "jquery-ui-dist": "^1.12.1",
     "ol": "^6.3.1",
