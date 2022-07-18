@@ -14,7 +14,7 @@
   "dependencies": {
     "@ztree/ztree_v3": "^3.5.43",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "jquery-ui-dist": "^1.12.1",
     "ol": "^6.3.1",
     "sidr": "^2.2.1"
